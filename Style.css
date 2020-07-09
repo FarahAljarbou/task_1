@@ -1,0 +1,20 @@
+/*Amal and Farah*/
+html{ 
+background: #F9FAFC;
+color:#FEE600;
+font-size: 75px;
+  max-width: 500px;
+  margin: auto;}
+
+
+button {     
+    background-color: Transparent;
+    border: none;
+    cursor:pointer;
+    overflow: hidden; 
+    float: center;
+}
+
+img {
+    width: 150px;
+}
